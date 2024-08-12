@@ -1,3 +1,4 @@
+pub mod atomics;
 pub mod cell;
 pub mod channel;
 pub mod flatten;
